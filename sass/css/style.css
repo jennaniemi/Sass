@@ -51,10 +51,6 @@ article div img {
      object-position: center;
 }
 
-header {
-  @i;
-}
-
 nav {
   display: flex;
   align-items: center;

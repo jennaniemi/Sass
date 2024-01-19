@@ -93,7 +93,7 @@ article {
 
 footer {
     @include flex-container;
-    backround-color: $dark-backround-color;
+    background-color: $dark-backround-color;
     p {
         color: $light-foreground-color;
     }
