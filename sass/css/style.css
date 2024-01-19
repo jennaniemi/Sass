@@ -49,4 +49,24 @@ article div img {
      object-fit: cover;
   -o-object-position: center;
      object-position: center;
+}
+
+header {
+  @i;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  height: 40px;
+}
+nav ul {
+  padding-left: 1em;
+}
+nav ul li {
+  display: inline-block;
+  width: 5em;
+  margin-right: 1em;
 }/*# sourceMappingURL=style.css.map */
